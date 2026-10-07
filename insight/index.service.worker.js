@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1791372714|2166904554';
+const CACHE_VERSION = '1791399046|33831331';
 /** @type {string} */
 const CACHE_PREFIX = 'Insight-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
